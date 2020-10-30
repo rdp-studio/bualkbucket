@@ -1,12 +1,9 @@
 {
     "description": "Run the program with the specified permission level.",
     "version": "4.0.0",
-    "url64": "https://github.com/M2Team/Privexec/releases/download/4.0.0/Privexec-4.0.0-win-x64.zip",
-    "url64.hash": "SHA256:6fa4873a698750827f3d27e4cd02aed519402fdbf008226be19432a5fd9c9744",
-    "url": "https://github.com/M2Team/Privexec/releases/download/4.0.0/Privexec-4.0.0-win-x86.zip",
-    "url.hash": "SHA256:55102c4b7a317a918f2914f572276ad3aa9cf0aa715c6dea2cdfb8413a2a5625",
-    "urlarm64": "https://github.com/M2Team/Privexec/releases/download/4.0.0/Privexec-4.0.0-win-arm64.zip",
-    "urlarm64.hash": "SHA256:499c984f11def71172d5b0be3d53f4e71bb6ec8ee79e621a66d16a9dde303180",
+    "url64": "https://github.com/rdp-studio/Privexec/releases/download/5.0.0/Privexec-5.0.0-win-x64.zip",
+    "url": "https://github.com/rdp-studio/Privexec/releases/download/5.0.0/Privexec-5.0.0-win-x86.zip",
+    "urlarm64": "https://github.com/rdp-studio/Privexec/releases/download/5.0.0/Privexec-5.0.0-win-arm64.zip",
     "extension": "zip",
     "links": [
         "AppExec.exe",
