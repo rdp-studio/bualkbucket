@@ -1,0 +1,9 @@
+{
+    "description": "Hexa Programming Language",
+    "version": "1.0.2",
+    "url64": "https://github.com/HexaLanguage/Hexa/releases/download/1.0.2/hexa.zip",
+    "extension": "zip",
+    "links": [
+        "hexa.cmd"
+    ]
+}
